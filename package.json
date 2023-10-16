@@ -17,7 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "release": "standard-version"
+    "release": "standard-version",
+    "bump:master": "standard-version --releaseCommitMessageFormat 'chore(master): bump to {{currentTag}}\n\n[skip master-ci]' --no-verify"
   },
   "eslintConfig": {
     "extends": [
