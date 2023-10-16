@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/dnpy5822/music-app-FE/compare/v1.4.1...v1.5.0) (2023-10-16)
+
+
+### Features
+
+* update minor version ([777fa61](https://github.com/dnpy5822/music-app-FE/commit/777fa61457a2df07c20cdd1802878ff89a27a560))
+
 ## [1.4.0](https://github.com/dnpy5822/music-app-FE/compare/v1.1.0...v1.4.0) (2023-10-16)
 
 ### Features
